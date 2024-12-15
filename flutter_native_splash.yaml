@@ -1,0 +1,10 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash_logo.png
+  branding: assets/images/Meta Logo.png
+
+
+  android_12:
+    image: assets/images/splash_logo.png
+    icon_background_color: "#ffffff"
